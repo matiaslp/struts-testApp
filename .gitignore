@@ -1,0 +1,9 @@
+bin/
+bin/*
+target/
+build/
+target/*
+build/*
+.tern-project
+.metadata
+.metadata/*
