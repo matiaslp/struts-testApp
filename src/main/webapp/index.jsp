@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Basic Struts 2 Application - Welcome</title>
+    <title>Directorio de empleados por empresa</title>
   </head>
   <body>
     <h1>Welcome To Struts 2!</h1>
